@@ -83,7 +83,7 @@ PULL REQUEST
 5. Click on Create pull request
 6. Describe your pull request to repository admin
 7. Submit pull request
-
+ 
 
 Git Concepts  
 -----------
